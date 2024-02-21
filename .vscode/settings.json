@@ -1,5 +1,0 @@
-{
-    "github.branchProtection": true,
-    "github.gitAuthentication": true,
-    "explorer.excludeGitIgnore": false
-}
